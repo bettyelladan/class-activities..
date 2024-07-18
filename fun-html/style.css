@@ -1,0 +1,17 @@
+table{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    border: 9px solid rgb(0, 100, 128);
+ }
+ 
+ th, td {
+    border: 5px solid rgb(255, 0, 153);
+    background-color: aquamarine;
+}
+ 
+ td:hover {
+    background-color: lightcoral;
+    color: white;
+ }
+ 
